@@ -10,6 +10,6 @@
 4. Other (LENGTH, SUBSTRING, REVERSE, REPLACE)
 5. Aggregation (AVG, MIN, MAX, SUM, COUNT, GROUP BY, HAVING)
 
-### 4. Demonstrate set operators - Union, Intersect and Except
+### 4. Demonstrate set operators - Union, Intersect and Except.
 
 ### 5. Demonstrate joins, projections and renames.
